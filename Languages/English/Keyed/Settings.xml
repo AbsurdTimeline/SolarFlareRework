@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SolarFlareRework>Solar Flare Rework</SolarFlareRework>
+  <ElectricityMultiplierDescription>Multiplier for electricity generation during a solar flare: {0}%</ElectricityMultiplierDescription>
+  <Reset>Reset</Reset>
+</LanguageData>
